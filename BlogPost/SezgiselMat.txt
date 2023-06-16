@@ -1,0 +1,12 @@
+Denklemlerin Gizemi
+
+Matematik, soyut düşünme ve problem çözme için temel bir araçtır. Denklemler, matematikteki temel yapı taşlarından biridir. Ancak denklemler bazen karmaşık ve gizemli bir şekilde sunulabilirler. Bu blog gönderisinde, denklemlerin altında yatan eşitlik kavramını keşfedeceğiz. Denklemleri sadece bir matematiksel ifade olarak görmek yerine, hayatın içinden birer eşitlik, düzen olarak algılanmasının, sezgisel olarak çözümlenebilir olmalarını anlamaya çalışacağız. 
+Öncelikli sorumuz denklem nedir ? Denklemler, bilinmeyen bir değeri bulmak veya iki farklı ifade arasındaki ilişkiyi anlamak için kullanılır, birbirine eşit olan iki matematiksel ifadeyi temsil eder. Örneğin, "2x + 3 = 7" denklemi, sol taraftaki ifadenin sağ taraftaki ifadeye eşit olduğunu gösterir. 
+
+Denklemler bazen karmaşık ve korkutucu görünse de altında yatan temel prensip oldukça basittir: her iki taraf da birbirine eşittir. Denklemleri denge noktasında anlamak, çözmek için gerekli adımları atmamızı kolaylaştırır.
+
+Denklemleri çözerken, bir denklemin sol tarafını düşünelim. Basit düzeyde bu taraf, denklemin bir yönünü temsil eder ve bilinmeyen değeri gösterir. Sağ taraftaki ifade ise denklemin diğer yönünü temsil eder ve bilinen bir değeri gösterir. burada bilinmeyenin değerini bulmak ve bunu yaparken de terazinin iki tarafının da aynı olduğunu kabul etmek gerekir. 
+
+Örneğin, "2x + 3 = 7" denklemini ele alalım. Bu denklemde, bilinmeyen x'in değerini bulmak istiyoruz. Denklemi görsel olarak düşünebilir ve bir doğrusal grafik üzerinde temsil edebiliriz. Bu grafiksel temsilde, denklemin sol tarafı yani "2x + 3" ifadesi bir doğruyu temsil ederken, sağ taraf ise bir sabit noktayı temsil eder. Bu grafiksel perspektif, denklemin çözümünü anlamak için bize bir yol sunar.
+
+Denklemler, matematikte temel yapı taşlarıdır ve birçok matematiksel kavramın anlaşılmasını sağlar. Denklemleri anlamak için, eşitlik kavramını kavramak ve denklemlerin balans noktasını çözmek için adımları takip etmek önemlidir. Gördüğümüz cisimlerde, doğrusal elemanlarda denklemlerin bir yansıması olarak düşünülebilir. mesela odanın içine yerleştireceğimiz direğin uzunluğu da bu doğrultuda değerlendirilebilir.  Matematik, denklemlerin gizemini çözmek için bize bir yol sunar ve bu gizemi anlamak, soyut düşünme ve problem çözme becerilerimizi geliştirmemize yardımcı olur.
